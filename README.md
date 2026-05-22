@@ -1,5 +1,7 @@
 <div align="center">
 
+[English](./README.md) | [中文](./README_CN.md)
+
 # Hey there! I'm Nico 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/Nico0248?style=social)](https://github.com/Nico0248)
