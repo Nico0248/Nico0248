@@ -46,6 +46,16 @@ _A passionate full-stack developer who loves building things with code_
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nico0248&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
 <div align="center">
 
 _⭐ Feel free to explore my repos and star the ones you find interesting!_
