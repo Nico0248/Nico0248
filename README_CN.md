@@ -14,7 +14,7 @@ _一个热爱用代码构建事物的全栈开发者_
 
 ### 🧑‍💻 关于我
 
-- 🔭 正在开发 [PD-Hunter](https://github.com/Nico0248/PD-Hunter) — 一个基于 AI 的 GitHub 赏金情报仪表盘
+- 🔭 正在开发 [PD-Hunter](https://github.com/FuZoe/PD-Hunter) — 一个基于 AI 的 GitHub 赏金情报仪表盘
 - 🖥️ 参与开源项目贡献，如 [VS Code](https://github.com/microsoft/vscode)
 - 🤖 探索 AI 应用，包括语音训练和智能工具
 - 🌱 持续学习，不断探索新技术
