@@ -14,7 +14,7 @@ _A passionate full-stack developer who loves building things with code_
 
 ### 🧑‍💻 About Me
 
-- 🔭 Currently working on [PD-Hunter](https://github.com/Nico0248/PD-Hunter) — an AI-powered bounty intelligence dashboard
+- 🔭 Currently working on [PD-Hunter](https://github.com/FuZoe/PD-Hunter) — an AI-powered bounty intelligence dashboard
 - 🖥️ Contributing to open source projects like [VS Code](https://github.com/microsoft/vscode)
 - 🤖 Exploring AI applications including voice training & intelligent tools
 - 🌱 Always learning and building with new technologies
