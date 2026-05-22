@@ -46,22 +46,6 @@ _A passionate full-stack developer who loves building things with code_
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nico0248&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nico0248&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nico0248&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 <div align="center">
 
 _⭐ Feel free to explore my repos and star the ones you find interesting!_
